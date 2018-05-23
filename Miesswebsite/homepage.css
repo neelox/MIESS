@@ -1,0 +1,18 @@
+.side{
+border-left: 0px solid black;
+}
+@media screen and (min-width:480px)
+{
+  .side{
+  border-left: 10px solid black;
+  }
+}
+
+
+marquee{
+  color:white;
+}
+
+body{
+  background: url("download1.jpg") fixed center;
+}
